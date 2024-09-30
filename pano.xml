@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="20025" start="node11" appversion="7.0.10">
+  <panorama id="node11" hideabout="1">
+    <input levelingpitch="0" height="2000" levelbias="0.400" overlap="1" levelbiashidpi="1.000" width="2000" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingroll="0">
+      <level width="2000" height="2000" predecode="0" preload="0"/>
+      <level width="1000" height="1000" predecode="0" preload="0"/>
+      <level width="500" height="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="0.421431" tilt="0.0965356" fov="159.166"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330" tilt="90" fov="140"/>
+    </view>
+    <userdata longitude="127.534283" altitude="144.30" description="" datetime="2024:09:27 19:08:57" nodeid="node11" copyright="" title="세대입구" author="" latitude="34.968947" customnodeid="" info="" heading="0" tags="2024년 09월  22일 광명 호반써밋 그랜드 에비뉴 201동 1207호 (25평)" source="" comment=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label wordwrap="1" borderradius="1" height="20" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" enabled="1" border="1" width="180" textcolor="0x000000" background="1" textalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot pan="-354.62" description="" target="" id="Point01" tilt="-16.93" skinid="ht_node" title="현관" url="{node10}"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomout="0" zoomafteroutfov="40" enabled="1" zoomafterinfov="140" zoomin="0" type="crossdissolve" delay="none" blendtime="1" softedge="0" blendcolor="0x000000" zoomoutpause="1" zoomspeed="2"/>
+    <autorotate returntohorizon="0.000" horizonfromdefview="0" nodedelay="0.00" startloaded="0" useanimation="0" nodefilter="" enabled="1" delay="10.00" noderandom="1" speed="0.020"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control contextvr="1" lockedmouse="0" invertwheel="0" sensitivity="8" dblclickfullscreen="0" simulatemass="1" zoomcentercursor="1" contextfullscreen="1" invertcontrol="1" contextprojections="0" hideabout="1" rubberband="0" lockedkeyboardzoom="0" speedwheel="1" lockedwheel="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node10" hideabout="1">
+    <input levelingpitch="0" height="2000" levelbias="0.400" overlap="1" levelbiashidpi="1.000" width="2000" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingroll="0">
+      <level width="2000" height="2000" predecode="0" preload="0"/>
+      <level width="1000" height="1000" predecode="0" preload="0"/>
+      <level width="500" height="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="177.648" tilt="-1.07669" fov="159.166"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330" tilt="90" fov="140"/>
+    </view>
+    <userdata longitude="127.534283" altitude="144.30" description="" datetime="2024:09:27 19:08:51" nodeid="node10" copyright="" title="현관" author="" latitude="34.968947" customnodeid="" info="" heading="0" tags="2024년 09월  22일 광명 호반써밋 그랜드 에비뉴 201동 1207호 (25평)" source="" comment=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label wordwrap="1" borderradius="1" height="20" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" enabled="1" border="1" width="180" textcolor="0x000000" background="1" textalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot pan="-356.57" description="" target="" id="Point01" tilt="-22.27" skinid="ht_node" title="세대입구" url="{node11}"/>
+      <hotspot pan="-181.24" description="" target="" id="Point02" tilt="-26.89" skinid="ht_node" title="복도" url="{node4}"/>
+      <hotspot pan="-208.51" description="" target="" id="Point03" tilt="-30.58" skinid="ht_node" title="욕실" url="{node9}"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomout="0" zoomafteroutfov="40" enabled="1" zoomafterinfov="140" zoomin="0" type="crossdissolve" delay="none" blendtime="1" softedge="0" blendcolor="0x000000" zoomoutpause="1" zoomspeed="2"/>
+    <autorotate returntohorizon="0.000" horizonfromdefview="0" nodedelay="0.00" startloaded="0" useanimation="0" nodefilter="" enabled="1" delay="10.00" noderandom="1" speed="0.020"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control contextvr="1" lockedmouse="0" invertwheel="0" sensitivity="8" dblclickfullscreen="0" simulatemass="1" zoomcentercursor="1" contextfullscreen="1" invertcontrol="1" contextprojections="0" hideabout="1" rubberband="0" lockedkeyboardzoom="0" speedwheel="1" lockedwheel="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node3" hideabout="1">
+    <input levelingpitch="0" height="2000" levelbias="0.400" overlap="1" levelbiashidpi="1.000" width="2000" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingroll="0">
+      <level width="2000" height="2000" predecode="0" preload="0"/>
+      <level width="1000" height="1000" predecode="0" preload="0"/>
+      <level width="500" height="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="177.49" tilt="-1.06099" fov="159.166"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330" tilt="90" fov="140"/>
+    </view>
+    <userdata longitude="127.534283" altitude="144.30" description="" datetime="2024:09:27 19:08:10" nodeid="node3" copyright="" title="침실1" author="" latitude="34.968947" customnodeid="" info="" heading="0" tags="2024년 09월  22일 광명 호반써밋 그랜드 에비뉴 201동 1207호 (25평)" source="" comment=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label wordwrap="1" borderradius="1" height="20" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" enabled="1" border="1" width="180" textcolor="0x000000" background="1" textalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot pan="-122.05" description="" target="" id="Point01" tilt="-22.89" skinid="ht_node" title="거실" url="{node6}"/>
+      <hotspot pan="-18.6" description="" target="" id="Point02" tilt="-25.7" skinid="ht_node" title="발코니1" url="{node2}"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomout="0" zoomafteroutfov="40" enabled="1" zoomafterinfov="140" zoomin="0" type="crossdissolve" delay="none" blendtime="1" softedge="0" blendcolor="0x000000" zoomoutpause="1" zoomspeed="2"/>
+    <autorotate returntohorizon="0.000" horizonfromdefview="0" nodedelay="0.00" startloaded="0" useanimation="0" nodefilter="" enabled="1" delay="10.00" noderandom="1" speed="0.020"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control contextvr="1" lockedmouse="0" invertwheel="0" sensitivity="8" dblclickfullscreen="0" simulatemass="1" zoomcentercursor="1" contextfullscreen="1" invertcontrol="1" contextprojections="0" hideabout="1" rubberband="0" lockedkeyboardzoom="0" speedwheel="1" lockedwheel="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node2" hideabout="1">
+    <input levelingpitch="0" height="2000" levelbias="0.400" overlap="1" levelbiashidpi="1.000" width="2000" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingroll="0">
+      <level width="2000" height="2000" predecode="0" preload="0"/>
+      <level width="1000" height="1000" predecode="0" preload="0"/>
+      <level width="500" height="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="-32.6876" tilt="-1.54537" fov="159.166"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330" tilt="90" fov="140"/>
+    </view>
+    <userdata longitude="127.534283" altitude="144.30" description="" datetime="2024:09:27 19:08:04" nodeid="node2" copyright="" title="발코니1" author="" latitude="34.968947" customnodeid="" info="" heading="0" tags="2024년 09월  22일 광명 호반써밋 그랜드 에비뉴 201동 1207호 (25평)" source="" comment=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label wordwrap="1" borderradius="1" height="20" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" enabled="1" border="1" width="180" textcolor="0x000000" background="1" textalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot pan="-295.9" description="" target="" id="Point01" tilt="-26.65" skinid="ht_node" title="실외기실" url="{node1}"/>
+      <hotspot pan="-210.91" description="" target="" id="Point02" tilt="-29.38" skinid="ht_node" title="침실1" url="{node3}"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomout="0" zoomafteroutfov="40" enabled="1" zoomafterinfov="140" zoomin="0" type="crossdissolve" delay="none" blendtime="1" softedge="0" blendcolor="0x000000" zoomoutpause="1" zoomspeed="2"/>
+    <autorotate returntohorizon="0.000" horizonfromdefview="0" nodedelay="0.00" startloaded="0" useanimation="0" nodefilter="" enabled="1" delay="10.00" noderandom="1" speed="0.020"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control contextvr="1" lockedmouse="0" invertwheel="0" sensitivity="8" dblclickfullscreen="0" simulatemass="1" zoomcentercursor="1" contextfullscreen="1" invertcontrol="1" contextprojections="0" hideabout="1" rubberband="0" lockedkeyboardzoom="0" speedwheel="1" lockedwheel="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node1" hideabout="1">
+    <input levelingpitch="0" height="2000" levelbias="0.400" overlap="1" levelbiashidpi="1.000" width="2000" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingroll="0">
+      <level width="2000" height="2000" predecode="0" preload="0"/>
+      <level width="1000" height="1000" predecode="0" preload="0"/>
+      <level width="500" height="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="-89.1387" tilt="-3.09224" fov="159.166"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330" tilt="90" fov="140"/>
+    </view>
+    <userdata longitude="127.534283" altitude="144.30" description="" datetime="2024:09:27 19:07:57" nodeid="node1" copyright="" title="실외기실" author="" latitude="34.968947" customnodeid="" info="" heading="0" tags="2024년 09월  22일 광명 호반써밋 그랜드 에비뉴 201동 1207호 (25평)" source="" comment=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label wordwrap="1" borderradius="1" height="20" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" enabled="1" border="1" width="180" textcolor="0x000000" background="1" textalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot pan="-177.57" description="" target="" id="Point01" tilt="-31.13" skinid="ht_node" title="발코니1" url="{node2}"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomout="0" zoomafteroutfov="40" enabled="1" zoomafterinfov="140" zoomin="0" type="crossdissolve" delay="none" blendtime="1" softedge="0" blendcolor="0x000000" zoomoutpause="1" zoomspeed="2"/>
+    <autorotate returntohorizon="0.000" horizonfromdefview="0" nodedelay="0.00" startloaded="0" useanimation="0" nodefilter="" enabled="1" delay="10.00" noderandom="1" speed="0.020"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control contextvr="1" lockedmouse="0" invertwheel="0" sensitivity="8" dblclickfullscreen="0" simulatemass="1" zoomcentercursor="1" contextfullscreen="1" invertcontrol="1" contextprojections="0" hideabout="1" rubberband="0" lockedkeyboardzoom="0" speedwheel="1" lockedwheel="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node4" hideabout="1">
+    <input levelingpitch="0" height="2000" levelbias="0.400" overlap="1" levelbiashidpi="1.000" width="2000" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingroll="0">
+      <level width="2000" height="2000" predecode="0" preload="0"/>
+      <level width="1000" height="1000" predecode="0" preload="0"/>
+      <level width="500" height="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="1.83079" tilt="-4.08971" fov="159.166"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330" tilt="90" fov="140"/>
+    </view>
+    <userdata longitude="127.534283" altitude="144.30" description="" datetime="2024:09:27 19:08:16" nodeid="node4" copyright="" title="복도" author="" latitude="34.968947" customnodeid="" info="" heading="0" tags="2024년 09월  22일 광명 호반써밋 그랜드 에비뉴 201동 1207호 (25평)" source="" comment=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label wordwrap="1" borderradius="1" height="20" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" enabled="1" border="1" width="180" textcolor="0x000000" background="1" textalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot pan="-142.66" description="" target="" id="Point01" tilt="-25.89" skinid="ht_node" title="욕실" url="{node9}"/>
+      <hotspot pan="-180.09" description="" target="" id="Point02" tilt="-27.77" skinid="ht_node" title="현관" url="{node10}"/>
+      <hotspot pan="-265.49" description="" target="" id="Point03" tilt="-29.39" skinid="ht_node" title="침실2" url="{node8}"/>
+      <hotspot pan="-335.83" description="" target="" id="Point04" tilt="-17.56" skinid="ht_node" title="침실1" url="{node3}"/>
+      <hotspot pan="-90.93" description="" target="" id="Point05" tilt="-30.24" skinid="ht_node" title="발코니2" url="{node7}"/>
+      <hotspot pan="-35.51" description="" target="" id="Point06" tilt="-30.7" skinid="ht_node" title="주방" url="{node5}"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomout="0" zoomafteroutfov="40" enabled="1" zoomafterinfov="140" zoomin="0" type="crossdissolve" delay="none" blendtime="1" softedge="0" blendcolor="0x000000" zoomoutpause="1" zoomspeed="2"/>
+    <autorotate returntohorizon="0.000" horizonfromdefview="0" nodedelay="0.00" startloaded="0" useanimation="0" nodefilter="" enabled="1" delay="10.00" noderandom="1" speed="0.020"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control contextvr="1" lockedmouse="0" invertwheel="0" sensitivity="8" dblclickfullscreen="0" simulatemass="1" zoomcentercursor="1" contextfullscreen="1" invertcontrol="1" contextprojections="0" hideabout="1" rubberband="0" lockedkeyboardzoom="0" speedwheel="1" lockedwheel="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node5" hideabout="1">
+    <input levelingpitch="0" height="2000" levelbias="0.400" overlap="1" levelbiashidpi="1.000" width="2000" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingroll="0">
+      <level width="2000" height="2000" predecode="0" preload="0"/>
+      <level width="1000" height="1000" predecode="0" preload="0"/>
+      <level width="500" height="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="85.9573" tilt="-4.20613" fov="159.166"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330" tilt="90" fov="140"/>
+    </view>
+    <userdata longitude="127.534283" altitude="144.30" description="" datetime="2024:09:27 19:08:22" nodeid="node5" copyright="" title="주방" author="" latitude="34.968947" customnodeid="" info="" heading="0" tags="2024년 09월  22일 광명 호반써밋 그랜드 에비뉴 201동 1207호 (25평)" source="" comment=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label wordwrap="1" borderradius="1" height="20" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" enabled="1" border="1" width="180" textcolor="0x000000" background="1" textalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot pan="-30.04" description="" target="" id="Point01" tilt="-32.51" skinid="ht_node" title="복도" url="{node4}"/>
+      <hotspot pan="-88.79" description="" target="" id="Point02" tilt="-23.42" skinid="ht_node" title="침실1" url="{node3}"/>
+      <hotspot pan="-187.22" description="" target="" id="Point03" tilt="-20.53" skinid="ht_node" title="거실" url="{node6}"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomout="0" zoomafteroutfov="40" enabled="1" zoomafterinfov="140" zoomin="0" type="crossdissolve" delay="none" blendtime="1" softedge="0" blendcolor="0x000000" zoomoutpause="1" zoomspeed="2"/>
+    <autorotate returntohorizon="0.000" horizonfromdefview="0" nodedelay="0.00" startloaded="0" useanimation="0" nodefilter="" enabled="1" delay="10.00" noderandom="1" speed="0.020"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control contextvr="1" lockedmouse="0" invertwheel="0" sensitivity="8" dblclickfullscreen="0" simulatemass="1" zoomcentercursor="1" contextfullscreen="1" invertcontrol="1" contextprojections="0" hideabout="1" rubberband="0" lockedkeyboardzoom="0" speedwheel="1" lockedwheel="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node7" hideabout="1">
+    <input levelingpitch="0" height="2000" levelbias="0.400" overlap="1" levelbiashidpi="1.000" width="2000" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingroll="0">
+      <level width="2000" height="2000" predecode="0" preload="0"/>
+      <level width="1000" height="1000" predecode="0" preload="0"/>
+      <level width="500" height="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="-93.6301" tilt="-4.44101" fov="159.166"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330" tilt="90" fov="140"/>
+    </view>
+    <userdata longitude="127.534283" altitude="144.30" description="" datetime="2024:09:27 19:08:34" nodeid="node7" copyright="" title="발코니2" author="" latitude="34.968947" customnodeid="" info="" heading="0" tags="2024년 09월  22일 광명 호반써밋 그랜드 에비뉴 201동 1207호 (25평)" source="" comment=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label wordwrap="1" borderradius="1" height="20" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" enabled="1" border="1" width="180" textcolor="0x000000" background="1" textalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot pan="-186.28" description="" target="" id="Point01" tilt="-34.97" skinid="ht_node" title="복도" url="{node4}"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomout="0" zoomafteroutfov="40" enabled="1" zoomafterinfov="140" zoomin="0" type="crossdissolve" delay="none" blendtime="1" softedge="0" blendcolor="0x000000" zoomoutpause="1" zoomspeed="2"/>
+    <autorotate returntohorizon="0.000" horizonfromdefview="0" nodedelay="0.00" startloaded="0" useanimation="0" nodefilter="" enabled="1" delay="10.00" noderandom="1" speed="0.020"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control contextvr="1" lockedmouse="0" invertwheel="0" sensitivity="8" dblclickfullscreen="0" simulatemass="1" zoomcentercursor="1" contextfullscreen="1" invertcontrol="1" contextprojections="0" hideabout="1" rubberband="0" lockedkeyboardzoom="0" speedwheel="1" lockedwheel="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node6" hideabout="1">
+    <input levelingpitch="0" height="2000" levelbias="0.400" overlap="1" levelbiashidpi="1.000" width="2000" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingroll="0">
+      <level width="2000" height="2000" predecode="0" preload="0"/>
+      <level width="1000" height="1000" predecode="0" preload="0"/>
+      <level width="500" height="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="-0.805645" tilt="-1.02156" fov="159.166"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330" tilt="90" fov="140"/>
+    </view>
+    <userdata longitude="127.534283" altitude="144.30" description="" datetime="2024:09:27 19:08:28" nodeid="node6" copyright="" title="거실" author="" latitude="34.968947" customnodeid="" info="" heading="0" tags="2024년 09월  22일 광명 호반써밋 그랜드 에비뉴 201동 1207호 (25평)" source="" comment=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label wordwrap="1" borderradius="1" height="20" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" enabled="1" border="1" width="180" textcolor="0x000000" background="1" textalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot pan="-186.46" description="" target="" id="Point01" tilt="-26.43" skinid="ht_node" title="주방" url="{node5}"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomout="0" zoomafteroutfov="40" enabled="1" zoomafterinfov="140" zoomin="0" type="crossdissolve" delay="none" blendtime="1" softedge="0" blendcolor="0x000000" zoomoutpause="1" zoomspeed="2"/>
+    <autorotate returntohorizon="0.000" horizonfromdefview="0" nodedelay="0.00" startloaded="0" useanimation="0" nodefilter="" enabled="1" delay="10.00" noderandom="1" speed="0.020"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control contextvr="1" lockedmouse="0" invertwheel="0" sensitivity="8" dblclickfullscreen="0" simulatemass="1" zoomcentercursor="1" contextfullscreen="1" invertcontrol="1" contextprojections="0" hideabout="1" rubberband="0" lockedkeyboardzoom="0" speedwheel="1" lockedwheel="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node8" hideabout="1">
+    <input levelingpitch="0" height="2000" levelbias="0.400" overlap="1" levelbiashidpi="1.000" width="2000" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingroll="0">
+      <level width="2000" height="2000" predecode="0" preload="0"/>
+      <level width="1000" height="1000" predecode="0" preload="0"/>
+      <level width="500" height="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="-0.956695" tilt="-1.03046" fov="159.166"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330" tilt="90" fov="140"/>
+    </view>
+    <userdata longitude="127.534283" altitude="144.30" description="" datetime="2024:09:27 19:08:39" nodeid="node8" copyright="" title="침실2" author="" latitude="34.968947" customnodeid="" info="" heading="0" tags="2024년 09월  22일 광명 호반써밋 그랜드 에비뉴 201동 1207호 (25평)" source="" comment=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label wordwrap="1" borderradius="1" height="20" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" enabled="1" border="1" width="180" textcolor="0x000000" background="1" textalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot pan="-235.25" description="" target="" id="Point01" tilt="-24.15" skinid="ht_node" title="복도" url="{node4}"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomout="0" zoomafteroutfov="40" enabled="1" zoomafterinfov="140" zoomin="0" type="crossdissolve" delay="none" blendtime="1" softedge="0" blendcolor="0x000000" zoomoutpause="1" zoomspeed="2"/>
+    <autorotate returntohorizon="0.000" horizonfromdefview="0" nodedelay="0.00" startloaded="0" useanimation="0" nodefilter="" enabled="1" delay="10.00" noderandom="1" speed="0.020"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control contextvr="1" lockedmouse="0" invertwheel="0" sensitivity="8" dblclickfullscreen="0" simulatemass="1" zoomcentercursor="1" contextfullscreen="1" invertcontrol="1" contextprojections="0" hideabout="1" rubberband="0" lockedkeyboardzoom="0" speedwheel="1" lockedwheel="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node9" hideabout="1">
+    <input levelingpitch="0" height="2000" levelbias="0.400" overlap="1" levelbiashidpi="1.000" width="2000" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingroll="0">
+      <level width="2000" height="2000" predecode="0" preload="0"/>
+      <level width="1000" height="1000" predecode="0" preload="0"/>
+      <level width="500" height="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="4.43267" tilt="-1.23667" fov="159.166"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330" tilt="90" fov="140"/>
+    </view>
+    <userdata longitude="127.534283" altitude="144.30" description="" datetime="2024:09:27 19:08:46" nodeid="node9" copyright="" title="욕실" author="" latitude="34.968947" customnodeid="" info="" heading="0" tags="2024년 09월  22일 광명 호반써밋 그랜드 에비뉴 201동 1207호 (25평)" source="" comment=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label wordwrap="1" borderradius="1" height="20" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" enabled="1" border="1" width="180" textcolor="0x000000" background="1" textalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot pan="-210.6" description="" target="" id="Point01" tilt="-33.81" skinid="ht_node" title="복도" url="{node4}"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomout="0" zoomafteroutfov="40" enabled="1" zoomafterinfov="140" zoomin="0" type="crossdissolve" delay="none" blendtime="1" softedge="0" blendcolor="0x000000" zoomoutpause="1" zoomspeed="2"/>
+    <autorotate returntohorizon="0.000" horizonfromdefview="0" nodedelay="0.00" startloaded="0" useanimation="0" nodefilter="" enabled="1" delay="10.00" noderandom="1" speed="0.020"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control contextvr="1" lockedmouse="0" invertwheel="0" sensitivity="8" dblclickfullscreen="0" simulatemass="1" zoomcentercursor="1" contextfullscreen="1" invertcontrol="1" contextprojections="0" hideabout="1" rubberband="0" lockedkeyboardzoom="0" speedwheel="1" lockedwheel="0" lockedkeyboard="0"/>
+  </panorama>
+  <masternode>
+    <userdata description="201동 1207호" copyright="" tags="" title="광명 호반써밋 그랜드 에비뉴" author="" comment=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
